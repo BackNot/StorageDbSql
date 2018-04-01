@@ -1,0 +1,17 @@
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\bin\Debug\Storage.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\obj\Debug\Storage.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\obj\Debug\Storage.Form_AddItem.resources
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\obj\Debug\Storage.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\obj\Debug\Storage.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\bin\Debug\Storage.exe
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\bin\Debug\Storage.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\bin\Debug\EntityFramework.dll
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\bin\Debug\EntityFramework.xml
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\obj\Debug\Storage.exe
+c:\users\alex\documents\visual studio 2013\Projects\Storage\Storage\obj\Debug\Storage.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Storage\Storage\obj\Debug\Storage.Migrations.InitialCreate.resources
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Storage\Storage\obj\Debug\Storage.Form_MakePurchase.resources
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Storage\Storage\obj\Debug\Storage.Form_ChooseItem.resources
